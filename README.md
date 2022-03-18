@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on personal projects but open to collab
 - 🌱 I’m currently learning React and Tailwind
-- ⚡ Asspiration: To become a wholesome developer
+- ⚡ Aspiration: To become a wholesome developer
 - 🧐 Fun fact: I'm really good at drawing potraits
 
 ### Connect with me:
