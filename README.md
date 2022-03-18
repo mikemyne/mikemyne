@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mikemyne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mikemyne-portfolio.netlify.app/)
+[<img align="left" alt="mikemyne.com" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />](https://mikemyne-portfolio.netlify.app/)
 [<img align="left" alt="mikemyne | LinkedIn" width="22px" src="https://icon-library.com/images/white-linkedin-icon-png/white-linkedin-icon-png-7.jpg" />](https://www.linkedin.com/in/mike-myne-otieno-a114a11ab/)
 
 <br />
