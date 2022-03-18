@@ -11,7 +11,7 @@
 
 [<img align="left" alt="benruwel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://benruwel-portfolio.netlify.app/)
 [<img align="left" alt="benruwel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/cyberbenny_)
-[<img align="left" alt="benruwel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/Ben-Ruwel/)
+[<img align="left" alt="benruwel | LinkedIn" width="22px" src="https://icon-library.com/images/white-linkedin-icon-png/white-linkedin-icon-png-7.jpg" />](https://www.linkedin.com/in/Ben-Ruwel/)
 
 <br />
 
