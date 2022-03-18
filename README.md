@@ -5,13 +5,12 @@
 - 🔭 I’m currently working on personal projects but open to collab
 - 🌱 I’m currently learning React and Tailwind
 - ⚡ Asspiration: To become a wholesome developer
-- 🧐 I'm really good at drawing potraits
+- 🧐 Fun fact: I'm really good at drawing potraits
 
 ### Connect with me:
 
-[<img align="left" alt="benruwel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://benruwel-portfolio.netlify.app/)
-[<img align="left" alt="benruwel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/cyberbenny_)
-[<img align="left" alt="benruwel | LinkedIn" width="22px" src="https://icon-library.com/images/white-linkedin-icon-png/white-linkedin-icon-png-7.jpg" />](https://www.linkedin.com/in/Ben-Ruwel/)
+[<img align="left" alt="mikemyne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mikemyne-portfolio.netlify.app/)
+[<img align="left" alt="mikemyne | LinkedIn" width="22px" src="https://icon-library.com/images/white-linkedin-icon-png/white-linkedin-icon-png-7.jpg" />](https://www.linkedin.com/in/mike-myne-otieno-a114a11ab/)
 
 <br />
 
