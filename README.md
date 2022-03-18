@@ -17,7 +17,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="32px" src="https://user-images.githubusercontent.com/53556380/96690485-6bcedb80-138c-11eb-8066-1528c1a68f2c.png" />
 <img align="left" alt="Android" width="32px" src="https://user-images.githubusercontent.com/53556380/96730158-99347d00-13be-11eb-8e93-9b1e96707151.png" />
 <img align="left" alt="Google Firebase" width="32px" src="https://user-images.githubusercontent.com/53556380/96730028-72764680-13be-11eb-96f0-f6c28408f866.png" />
