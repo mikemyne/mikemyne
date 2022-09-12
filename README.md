@@ -3,7 +3,7 @@
 ## I'm a developer and I.T graduate/enthusiast
 
 - 🔭 I’m currently working on personal projects but open to collab
-- 🌱 I’m currently learning React and Tailwind
+- 🌱 I’m currently learning React, Tailwind and Flutter
 - ⚡ Aspiration: To become a wholesome developer
 - 🧐 Fun fact: I'm really good at drawing potraits
 
