@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="mikemyne.com" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" />](https://mikemyne-portfolio.netlify.app/)
-[<img align="left" alt="mikemyne | LinkedIn" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" />](https://www.linkedin.com/in/mike-myne-otieno-a114a11ab/)
+[<img align="left" alt="mikemyne | LinkedIn" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" />](https://www.linkedin.com/in/mike-myne-otieno-a114a11a)
 
 <br />
 
